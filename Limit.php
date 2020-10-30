@@ -22,6 +22,7 @@
 
 		echo "Nome:" . " " . $tbClientes['nome'] . "<br><br/>" . "Tel:" . $tbClientes['telCel'] . "<hr/>" . "<br><br/>";
 		}
+	//aaaaaaaaaaaa
 	
 		mysqli_close($con);
 	}
